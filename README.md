@@ -24,16 +24,16 @@
 - [x] [Git Commit (e a Escada Infinita)](https://curso.dev/web/git-commit)
 - [x] [Git Diff e Amend (e a Viagem no Tempo)](https://curso.dev/web/git-diff-amend)
 ### Dia 6
-- [ ] [🚗 Pista Rápida: Dia 6](https://curso.dev/web/pista-rapida-Dia-6)
-- [ ] [Git Push](https://curso.dev/web/git-push)
-- [ ] [Fazendo commits de forma mais rápida](https://curso.dev/web/git-commit-m)
-- [ ] [Git Push De Novo (mas agora com ainda mais "força")](https://curso.dev/web/git-push-force)
+- [x] [🚗 Pista Rápida: Dia 6](https://curso.dev/web/pista-rapida-Dia-6)
+- [x] [Git Push](https://curso.dev/web/git-push)
+- [x] [Fazendo commits de forma mais rápida](https://curso.dev/web/git-commit-m)
+- [x] [Git Push De Novo (mas agora com ainda mais "força")](https://curso.dev/web/git-push-force)
 ### Dia 7
-- [ ] [🚗 Pista Rápida: Dia 7](https://curso.dev/web/pista-rapida-Dia-7)
-- [ ] [Client e Server](https://curso.dev/web/client-server)
-- [ ] [Hospedagem e Deploy](https://curso.dev/web/hospedagem-e-deploy)
-- [ ] [Fazendo novos Deploys](https://curso.dev/web/novos-deploys)
-- [ ] [Encerramento do Desafio (Resultados de todo mundo) 🎉](https://curso.dev/web/desafio-encerramento)
+- [x] [🚗 Pista Rápida: Dia 7](https://curso.dev/web/pista-rapida-Dia-7)
+- [x] [Client e Server](https://curso.dev/web/client-server)
+- [x] [Hospedagem e Deploy](https://curso.dev/web/hospedagem-e-deploy)
+- [x] [Fazendo novos Deploys](https://curso.dev/web/novos-deploys)
+- [x] [Encerramento do Desafio (Resultados de todo mundo) 🎉](https://curso.dev/web/desafio-encerramento)
 ### Pitstop 🏁
 - [ ] [Se você puder ajudar, eu agradeço muito 🤝](https://curso.dev/web/feedback-inicio)
 ### Dia 8
