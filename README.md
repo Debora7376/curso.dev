@@ -35,14 +35,14 @@
 - [x] [Fazendo novos Deploys](https://curso.dev/web/novos-deploys)
 - [x] [Encerramento do Desafio (Resultados de todo mundo) 🎉](https://curso.dev/web/desafio-encerramento)
 ### Pitstop 🏁
-- [ ] [Se você puder ajudar, eu agradeço muito 🤝](https://curso.dev/web/feedback-inicio)
+- [x] [Se você puder ajudar, eu agradeço muito 🤝](https://curso.dev/web/feedback-inicio)
 ### Dia 8
-- [ ] [🚗 Pista Rápida: Dia 8](https://curso.dev/web/pista-rapida-Dia-8)
-- [ ] [Programação "Orgânica" versus "Impressora 3D"](https://curso.dev/web/organico-vs-impressora-3d)
-- [ ] [Por que meus projetos sempre dão certo?](https://curso.dev/web/projetos-darem-certo)
+- [x] [🚗 Pista Rápida: Dia 8](https://curso.dev/web/pista-rapida-Dia-8)
+- [x] [Programação "Orgânica" versus "Impressora 3D"](https://curso.dev/web/organico-vs-impressora-3d)
+- [x] [Por que meus projetos sempre dão certo?](https://curso.dev/web/projetos-darem-certo)
 ### Dia 9
-- [ ] [🚗 Pista Rápida: Dia 9](https://curso.dev/web/pista-rapida-Dia-9)
-- [ ] [Qual o “segredo” para organização de tarefas?](https://curso.dev/web/organizacao-de-tarefas)
+- [x] [🚗 Pista Rápida: Dia 9](https://curso.dev/web/pista-rapida-Dia-9)
+- [x] [Qual o “segredo” para organização de tarefas?](https://curso.dev/web/organizacao-de-tarefas)
 - [ ] [Como peitar projetos de qualquer tamanho?](https://curso.dev/web/projetos-qualquer-tamanho)
 - [ ] [Criando a primeira Milestone e Issues do Projeto](https://curso.dev/web/github-milestones-issues)
 ### Dia 10
