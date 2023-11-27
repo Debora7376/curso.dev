@@ -55,16 +55,23 @@
 ### Dia 11
 - [x] [🚗 Pista Rápida: Dia 11](https://curso.dev/web/pista-rapida-Dia-11)
 - [x] [Resolução de DNS (Desafio Nível 1)](https://curso.dev/web/resolucao-dns-nivel-1)
+- [x] [Você conseguiu encontrar o link secreto!](https://curso.dev/web/resolucao-dns-nivel-2)
+- [x] [Resolução de DNS (Desafio Nível 2)](https://curso.dev/web/resolucao-dns-nivel-3)
+- [x] [WOW! Você descobriu mais um link secreto 😍](https://curso.dev/web/resolucao-dns-nivel-4)
+- [x] [É sério?](https://curso.dev/web/resolucao-dns-nivel-5)
 ### Dia 12
 - [x] [🚗 Pista Rápida: Dia 12](https://curso.dev/web/pista-rapida-Dia-12)
 - [x] [Registrar um Domínio Próprio](https://curso.dev/web/registrar-dominio-proprio)
 - [x] [Configurar o Servidor de DNS](https://curso.dev/web/configurar-servidor-dns)
+- [x] ["Chorinho" sobre Servidor de DNS 💪](https://curso.dev/web/configurar-servidor-dns-chorinho)
+- [x] [🏳️ Capture The Flag: DNS](https://curso.dev/web/dns-h4ck3r)
 ### Dia 13
 - [x] [🚗 Pista Rápida: Dia 13](https://curso.dev/web/pista-rapida-Dia-13)
 - [x] [Página "Em Construção" e Encerramento da Milestone 0](https://curso.dev/web/milestone-0-encerramento)
 - [x] [Não confie em nenhum serviço 🛑](https://curso.dev/web/uptime-dos-servicos)
 ### Dia 14
 - [x] [🚗 Pista Rápida: Dia 14](https://curso.dev/web/pista-rapida-Dia-14)
+- [x] [🎁 Bônus: PoC e MVP ajudam mesmo?](https://curso.dev/web/poc-e-mvp)
 - [x] [Inauguração Milestone 1: Fundação](https://curso.dev/web/milestone-1-inauguracao)
 - [x] [Uma história macabra sobre "Overengineering"](https://curso.dev/web/overengineering-historia)
 - [x] [Proposta de Arquitetura e Pastas](https://curso.dev/web/arquitetura-e-pastas)
