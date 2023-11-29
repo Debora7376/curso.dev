@@ -102,3 +102,5 @@
 ### Dia 19
 - [ ] [Foi certo fazer o commit do .env?](https://curso.dev/web/commit-dotenv)
 - [ ] [Uma história macabra sobre "Choque Elétrico" e "TDD"](https://curso.dev/web/choque-eletrico-historia)
+- [ ] Configurar o "baseUrl" para "Absolute Imports"
+- [ ] Configurar scripts dos serviços
