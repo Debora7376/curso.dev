@@ -97,10 +97,17 @@
 - [x] [🚗 Pista Rápida: Dia 18](https://curso.dev/web/pista-rapida-Dia-18)
 - [x] [Criar módulo "database.js"](https://curso.dev/web/criar-modulo-database)
 - [x] [A importância das Variáveis de Ambiente](https://curso.dev/web/variaveis-de-ambiente-introducao)
-- [ ] [Variáveis de Ambiente no Código](https://curso.dev/web/variaveis-de-ambiente-implementando-codigo)
-- [ ] [Variáveis de Ambiente no Docker Compose](https://curso.dev/web/variaveis-de-ambiente-implementando-docker-compose)
+- [x] [Variáveis de Ambiente no Código](https://curso.dev/web/variaveis-de-ambiente-implementando-codigo)
+- [x] [Variáveis de Ambiente no Docker Compose](https://curso.dev/web/variaveis-de-ambiente-implementando-docker-compose)
 ### Dia 19
-- [ ] [Foi certo fazer o commit do .env?](https://curso.dev/web/commit-dotenv)
-- [ ] [Uma história macabra sobre "Choque Elétrico" e "TDD"](https://curso.dev/web/choque-eletrico-historia)
-- [ ] Configurar o "baseUrl" para "Absolute Imports"
-- [ ] Configurar scripts dos serviços
+- [x] [Foi certo fazer o commit do .env?](https://curso.dev/web/commit-dotenv)
+- [x] [Uma história macabra sobre "Choque Elétrico" e "TDD"](https://curso.dev/web/choque-eletrico-historia)
+- [x] Configurar o "baseUrl" para "Absolute Imports"
+- [x] Configurar scripts dos serviços
+### Dia 20 
+🚗 Pista Rápida: Dia 20
+- [x] Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase
+- [x] Database "Version" (+ Red, Green e Refactor do TDD)
+- [x] Database "Max Connections"
+- [x] Database "Opened Connections"
+- [x] SQL Injection e Queries Parametrizadas
