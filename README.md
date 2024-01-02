@@ -100,14 +100,15 @@
 - [x] [Variáveis de Ambiente no Código](https://curso.dev/web/variaveis-de-ambiente-implementando-codigo)
 - [x] [Variáveis de Ambiente no Docker Compose](https://curso.dev/web/variaveis-de-ambiente-implementando-docker-compose)
 ### Dia 19
+- [x] [🚗 Pista Rápida: Dia 19](https://curso.dev/web/pista-rapida-dia-19)
 - [x] [Foi certo fazer o commit do .env?](https://curso.dev/web/commit-dotenv)
 - [x] [Uma história macabra sobre "Choque Elétrico" e "TDD"](https://curso.dev/web/choque-eletrico-historia)
-- [x] Configurar o "baseUrl" para "Absolute Imports"
-- [x] Configurar scripts dos serviços
+- [x] [Configurar o "baseUrl" para "Absolute Imports"](https://curso.dev/web/configurar-base-url)
+- [x] [Configurar scripts dos serviços](https://curso.dev/web/configurar-scripts-servicos)
 ### Dia 20 
-🚗 Pista Rápida: Dia 20
-- [x] Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase
-- [x] Database "Version" (+ Red, Green e Refactor do TDD)
-- [x] Database "Max Connections"
-- [x] Database "Opened Connections"
-- [x] SQL Injection e Queries Parametrizadas
+- [x] [🚗 Pista Rápida: Dia 20](https://curso.dev/web/pista-rapida-dia-20)
+- [x] [Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase](https://curso.dev/web/endpoint-status-updated-at)
+- [x] [Database "Version" (+ Red, Green e Refactor do TDD)](https://curso.dev/web/endpoint-status-version)
+- [x] [Database "Max Connections"](https://curso.dev/web/endpoint-status-max-connections)
+- [x] [Database "Opened Connections"](https://curso.dev/web/endpoint-status-opened-connections)
+- [x] [SQL Injection e Queries Parametrizadas](https://curso.dev/web/endpoint-status-queries-parametrizadas)
